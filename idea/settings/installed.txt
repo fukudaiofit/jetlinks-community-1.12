@@ -1,0 +1,14 @@
+BashSupport
+Lombook Plugin
+MavenRunHelper
+Statistic
+Twelf Plugin
+biz.elfuego.idea.issues.gitea
+codes.rudolph.idea.cfg
+com.andrey4623.rainbowcsv
+com.intellij.plugins.html.instantEditing
+com.wakatime.intellij.plugin
+net.seesharpsoft.intellij.plugins.csv
+org.asciidoctor.intellij.asciidoc
+org.intellij.gitee
+org.jetbrains.plugins.hocon
